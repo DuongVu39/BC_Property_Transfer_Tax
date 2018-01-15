@@ -1,0 +1,16 @@
+---
+title: "Milestone"
+author: "Duong Vu"
+date: "January 11, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+monthly <- read_csv("../data/provincial-monthly_new.csv")
+head(monthly)
+```
+
