@@ -7,8 +7,21 @@ library(shiny)
 library(tidyverse)
 city_tax <- read_csv("../muni_tax.csv")
 
+tweaks <- 
+  list(tags$head(tags$style(HTML("
+                                 .multicol { 
+                                 height: 150px;
+                                 -webkit-column-count: 5; /* Chrome, Safari, Opera */ 
+                                 -moz-column-count: 5;    /* Firefox */ 
+                                 column-count: 5; 
+                                 -moz-column-fill: auto;
+                                 -column-fill: auto;
+                                 } 
+                                 "))
+  ))
+
 # Define UI for application that draws a map and two scatterplot
-ui <- fluidPage(
+ui <- fluidPage(tweaks,
   
   titlePanel("British Columbia Property Tax Transfer"),
   
@@ -17,11 +30,13 @@ ui <- fluidPage(
       # Display 
       helpText(h3("Adjust the bar plot")),    
       checkboxGroupInput("check", h3("City Selection"), 
-                   choices = c("Abbotsford", "Chilliwack", "Burnaby", "Richmond",
-                               "Surrey","Vancouver", "Rest of Metro Vancouver",
-                               "Whistler","Centrail Okanagan Rural", "Kelowna",
-                               "Nanaimo", "Nanaimo Rural"), 
-                   selected = c("Nanaimo", "Vancouver","Burnaby")),
+                   choices = c("Abbotsford", "Burnaby","Chilliwack", 
+                               "Centrail Okanagan Rural", "Kelowna",
+                               "Nanaimo", "Nanaimo Rural","Richmond",
+                               "Rest of Metro Vancouver","Surrey",
+                               "Vancouver", "Whistler"), 
+                   selected = c("Nanaimo", "Vancouver","Burnaby"),
+                   inline = TRUE),
       
       checkboxGroupInput("check2", h3("Feature Selection"),
                          choices = unique(city_tax$Statistics),
@@ -35,10 +50,11 @@ ui <- fluidPage(
       
       
       selectInput("select", h3("City Selection"),
-                  choices = c("Abbotsford", "Chilliwack", "Burnaby", "Richmond",
-                              "Surrey","Vancouver", "Rest of Metro Vancouver",
-                              "Whistler","Centrail Okanagan Rural", "Kelowna",
-                              "Nanaimo", "Nanaimo Rural"),
+                  choices = c("Abbotsford", "Burnaby","Chilliwack", 
+                              "Centrail Okanagan Rural", "Kelowna",
+                              "Nanaimo", "Nanaimo Rural","Richmond",
+                              "Rest of Metro Vancouver","Surrey",
+                              "Vancouver", "Whistler"),
                   selected = "Nanaimo"),
       
       sliderInput("slider", h3("Time range"),
@@ -58,9 +74,9 @@ ui <- fluidPage(
       h2("First barplot"),
       plotOutput("barPlot"),
       h2("First trend plot"),
-      plotOutput("trendplot1")
-      #h2("Second trend plot"),
-      #plotOutput("trendplot2")
+      plotOutput("trendplot1"),
+      h2("Second trend plot"),
+      plotOutput("trendplot2")
     )
   ))
 
@@ -92,6 +108,16 @@ server <- function(input, output) {
     
   })
   
+  output$trendplot2 <- renderPlot({
+  city_tax %>%
+    filter(Municipality == input$select,
+           Statistics %in% c("RESIDENTIAL - COMMERCE (count)",
+                             "RESIDENTIAL - FARM (count)",
+                             "RESIDENTIAL - MULTI-FAMILY (count)")) %>% 
+    ggplot(aes(x=date,y=values,group=Statistics,fill=Statistics)) + 
+    geom_area(position="fill")+
+    scale_fill_brewer(palette="PuOr")
+  })
   
 }
 

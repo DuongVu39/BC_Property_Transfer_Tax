@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(tidyr)
 library(stringr)
+library(RColorBrewer)
 ```
 
 
@@ -143,7 +144,8 @@ city_tax %>%
          Statistics %in% c("RESIDENTIAL - COMMERCE (count)",
                            "RESIDENTIAL - FARM (count)",
                            "RESIDENTIAL - MULTI-FAMILY (count)")) %>% 
-ggplot(aes(x=date,y=values,group=Statistics,fill=Statistics)) + 
-  geom_area(position="fill")
+  ggplot(aes(x=date,y=values,group=Statistics,fill=Statistics)) + 
+    geom_area(position="fill")+
+    scale_fill_brewer(palette="PuOr")
 ```
 
