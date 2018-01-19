@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r, message=FALSE}
 library(tidyverse)
 library(tidyr)
+library(stringr)
 ```
 
 
@@ -26,12 +27,123 @@ muni_tax <- gather(monthly, "date", "values", 2:18)
 muni_tax <- muni_tax %>% 
   mutate(values = as.double(values))
 
+write.csv(muni_tax,"bc_tol_tax.csv",row.names = FALSE)
+
 head(muni_tax)
 typeof(muni_tax$values)
 
 muni_tax %>% 
   filter(Statistics == "RESIDENTIAL TOTAL (count)") %>% 
 ggplot(aes(date, weight=values)) +
-  geom_bar()
+  geom_bar(fill = "orange")
+```
+
+```{r}
+city2016 <- read_csv("../data/municipal-monthly.csv")
+city2017 <- read_csv("../data/municipalitymonthly2017.csv")
+
+city2017 <- city2017 %>% 
+  filter(DevelopmentRegion %in% c("Mainland/Southwest", 
+                                  "Thompson/Okanagan", 
+                                  "Vancouver Island/Coast"))
+
+length(city2016$RegionalDistrict)
+length(city2017$RegionalDistrict)
+
+write.csv(city2016,"city2016.csv",row.names = FALSE)
+write.csv(city2017,"city2017.csv",row.names = FALSE)
+
+
+city2016 <- gather(city2016, "date", "values", 5:11)
+city2017 <- gather(city2017, "date", "values", 5:14)
+
+left_join(city2016,city2017, by = c("DevelopmentRegion",
+                                     "RegionalDistrict",
+                                     "Municipality",
+                                     "Statistics"))
+```
+
+```{r}
+city2016 <- read_csv("city2016.csv")
+city2017 <- read_csv("city2017.csv")
+
+city2016 <- gather(city2016, "date", "values", 5:11)
+city2017 <- gather(city2017, "date", "values", 5:14)
+
+city_tax <- rbind(city2016,city2017)
+
+city_tax <- arrange(city_tax, DevelopmentRegion,RegionalDistrict,Municipality,Statistics)
+
+write.csv(city_tax,"city_tax.csv",row.names = FALSE)
+```
+
+```{r}
+city_tax <- read_csv("city_tax_A01.csv")
+city_tax <- city_tax %>% 
+  select(1:6)
+
+city_tax %>% 
+  filter(Municipality %in% c("Abbotsford", "Chilliwack", "Burnaby", "Richmond",
+                              "Surrey","Vancouver", "Rest of Metro Vancouver",
+                              "Whistler","Centrail Okanagan Rural", "Kelowna",
+                              "Nanaimo", "Nanaimo Rural"))
+
+write.csv(muni_tax,"city_tax_final.csv",row.names = FALSE)
+```
+
+
+```{r}
+city_tax <- read_csv("city_tax_final.csv")
+
+head(city_tax)
+
+#city_tax <- city_tax %>% 
+#  mutate(values = as.double(values))
+
+city_tax %>%  
+  filter(Municipality == "Abbotsford",
+         Statistics == "RESIDENTIAL TOTAL (count)")  %>% 
+ggplot(aes(date, values, group = Municipality)) +
+  geom_point(color = "orange") +
+  geom_path()
+
+muni_tax <- muni_tax %>% 
+  filter(!Statistics %in% c("FMV Average ($ mean)",
+                            "FMV Median ($ median)",
+                            "FMV Sum ($ sum)",
+                            "PTT Paid ($ sum)",
+                            "PTT Paid Median ($ median)",
+                            "Additional Tax Paid ($ sum)",
+        "FMV Average of Foreign Involvement Transactions ($ mean)"))
+
+write.csv(muni_tax,"muni_tax.csv",row.names = FALSE)
+
+unique(city_tax$RegionalDistrict)
+
+muni_tax <- city_tax %>% 
+  mutate(date = str_split_fixed(city_tax$date, pattern = " ", n = 2)[,1])
+
+```
+
+```{r}
+muni_tax %>%  
+  filter(Municipality %in% c("Abbotsford","Nanaimo","Vancouver"),
+         Statistics %in% c("RESIDENTIAL TOTAL (count)",
+                           "COMMERCIAL TOTAL (count)"))  %>% 
+ggplot(aes(Municipality)) +
+    geom_bar(aes(weight=values, 
+                 fill=Statistics), 
+             position="dodge")
+  
+```
+
+```{r}
+city_tax %>%
+  filter(Municipality == "Abbotsford",
+         Statistics %in% c("RESIDENTIAL - COMMERCE (count)",
+                           "RESIDENTIAL - FARM (count)",
+                           "RESIDENTIAL - MULTI-FAMILY (count)")) %>% 
+ggplot(aes(x=date,y=values,group=Statistics,fill=Statistics)) + 
+  geom_area(position="fill")
 ```
 
