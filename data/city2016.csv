@@ -1,0 +1,378 @@
+DevelopmentRegion,RegionalDistrict,Municipality,Statistics,2016-06 (Jun),2016-07 (Jul),2016-08 (Aug),2016-09 (Sep),2016-10 (Oct),2016-11 (Nov),2016-12 (Dec)
+Mainland/Southwest,FRASER VALLEY,Abbotsford,Total Market Transactions (count),643,552,509,401,354,354,286
+Mainland/Southwest,FRASER VALLEY,Abbotsford,RESIDENTIAL TOTAL (count),635,541,494,387,348,347,272
+Mainland/Southwest,FRASER VALLEY,Abbotsford,RESIDENTIAL - ACREAGE (count),15,9,13,5,7,5,1
+Mainland/Southwest,FRASER VALLEY,Abbotsford,RESIDENTIAL - COMMERCE (count),6,NA,3,1,5,1,1
+Mainland/Southwest,FRASER VALLEY,Abbotsford,RESIDENTIAL - FARM (count),11,8,9,12,7,2,6
+Mainland/Southwest,FRASER VALLEY,Abbotsford,RESIDENTIAL - MULTI-FAMILY (count),2,3,NA,NA,NA,NA,NA
+Mainland/Southwest,FRASER VALLEY,Abbotsford,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),373,291,265,189,131,146,103
+Mainland/Southwest,FRASER VALLEY,Abbotsford,RESIDENTIAL - STRATA RESIDENTIAL (count),197,190,182,153,118,147,143
+Mainland/Southwest,FRASER VALLEY,Abbotsford,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),2,7,1,NA,3,7,17
+Mainland/Southwest,FRASER VALLEY,Abbotsford,RESIDENTIAL - OTHER (count),29,33,21,27,77,39,1
+Mainland/Southwest,FRASER VALLEY,Abbotsford,COMMERCIAL TOTAL (count),7,9,9,10,2,5,8
+Mainland/Southwest,FRASER VALLEY,Abbotsford,COMMERCIAL - COMMERCE (count),6,6,7,4,1,NA,4
+Mainland/Southwest,FRASER VALLEY,Abbotsford,COMMERCIAL - STRATA NON-RESIDENTIAL (count),NA,NA,1,4,NA,2,3
+Mainland/Southwest,FRASER VALLEY,Abbotsford,COMMERCIAL - OTHER (count),1,3,1,2,1,3,1
+Mainland/Southwest,FRASER VALLEY,Abbotsford,RECREATIONAL TOTAL (count),NA,NA,NA,1,1,NA,NA
+Mainland/Southwest,FRASER VALLEY,Abbotsford,FARM TOTAL (count),1,2,3,3,2,2,4
+Mainland/Southwest,FRASER VALLEY,Abbotsford,OTHER/UNKNOWN TOTAL (count),NA,NA,3,NA,1,NA,2
+Mainland/Southwest,FRASER VALLEY,Abbotsford,FMV Sum ($ sum),"$344,557,368.30 ","$284,682,039.97 ","$289,330,577.97 ","$229,308,492.33 ","$178,022,074.26 ","$170,521,782.37 ","$137,638,545.73 "
+Mainland/Southwest,FRASER VALLEY,Abbotsford,FMV Average ($ mean),"$535,859.05 ","$515,728.33 ","$568,429.43 ","$571,841.63 ","$502,887.22 ","$481,699.95 ","$481,253.66 "
+Mainland/Southwest,FRASER VALLEY,Abbotsford,FMV Median ($ median),"$475,000.00 ","$490,000.00 ","$525,000.00 ","$475,000.00 ","$450,000.00 ","$403,850.00 ","$285,000.00 "
+Mainland/Southwest,FRASER VALLEY,Abbotsford,PTT Paid ($ sum),"$5,673,001.10 ","$4,472,171.17 ","$4,734,476.00 ","$3,867,422.93 ","$2,762,775.40 ","$2,647,531.69 ","$2,160,593.78 "
+Mainland/Southwest,FRASER VALLEY,Abbotsford,PTT Paid Median ($ median),"$7,220.00 ","$7,610.00 ","$8,000.00 ","$7,400.00 ","$6,100.00 ","$5,288.00 ","$3,060.00 "
+Mainland/Southwest,FRASER VALLEY,Chilliwack,Total Market Transactions (count),496,490,505,430,366,325,231
+Mainland/Southwest,FRASER VALLEY,Chilliwack,RESIDENTIAL TOTAL (count),490,482,493,420,341,319,222
+Mainland/Southwest,FRASER VALLEY,Chilliwack,RESIDENTIAL - ACREAGE (count),9,8,11,7,8,9,NA
+Mainland/Southwest,FRASER VALLEY,Chilliwack,RESIDENTIAL - COMMERCE (count),2,1,10,3,1,1,3
+Mainland/Southwest,FRASER VALLEY,Chilliwack,RESIDENTIAL - FARM (count),10,11,10,3,5,6,7
+Mainland/Southwest,FRASER VALLEY,Chilliwack,RESIDENTIAL - MULTI-FAMILY (count),1,1,NA,2,1,6,1
+Mainland/Southwest,FRASER VALLEY,Chilliwack,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),272,286,282,165,119,129,110
+Mainland/Southwest,FRASER VALLEY,Chilliwack,RESIDENTIAL - STRATA RESIDENTIAL (count),165,149,160,100,83,91,79
+Mainland/Southwest,FRASER VALLEY,Chilliwack,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),NA,1,NA,1,1,NA,NA
+Mainland/Southwest,FRASER VALLEY,Chilliwack,RESIDENTIAL - OTHER (count),31,25,20,139,123,77,22
+Mainland/Southwest,FRASER VALLEY,Chilliwack,COMMERCIAL TOTAL (count),4,6,7,6,5,5,5
+Mainland/Southwest,FRASER VALLEY,Chilliwack,COMMERCIAL - COMMERCE (count),2,4,4,3,2,5,3
+Mainland/Southwest,FRASER VALLEY,Chilliwack,COMMERCIAL - STRATA NON-RESIDENTIAL (count),1,NA,1,1,2,NA,NA
+Mainland/Southwest,FRASER VALLEY,Chilliwack,COMMERCIAL - OTHER (count),1,2,2,2,1,NA,2
+Mainland/Southwest,FRASER VALLEY,Chilliwack,RECREATIONAL TOTAL (count),NA,NA,1,NA,NA,NA,NA
+Mainland/Southwest,FRASER VALLEY,Chilliwack,FARM TOTAL (count),2,2,4,4,20,NA,3
+Mainland/Southwest,FRASER VALLEY,Chilliwack,OTHER/UNKNOWN TOTAL (count),NA,NA,NA,NA,NA,1,1
+Mainland/Southwest,FRASER VALLEY,Chilliwack,FMV Sum ($ sum),"$216,351,720.60 ","$211,593,089.78 ","$246,037,513.66 ","$179,225,977.19 ","$154,053,309.13 ","$152,799,651.49 ","$111,780,183.87 "
+Mainland/Southwest,FRASER VALLEY,Chilliwack,FMV Average ($ mean),"$436,192.99 ","$431,822.63 ","$487,203.00 ","$416,804.60 ","$420,910.68 ","$470,152.77 ","$483,896.90 "
+Mainland/Southwest,FRASER VALLEY,Chilliwack,FMV Median ($ median),"$387,905.00 ","$389,950.00 ","$390,000.00 ","$350,000.00 ","$354,500.00 ","$384,900.00 ","$394,900.00 "
+Mainland/Southwest,FRASER VALLEY,Chilliwack,PTT Paid ($ sum),"$3,118,134.67 ","$3,036,665.80 ","$3,953,418.94 ","$2,579,680.02 ","$2,210,366.08 ","$2,386,482.88 ","$1,693,771.25 "
+Mainland/Southwest,FRASER VALLEY,Chilliwack,PTT Paid Median ($ median),"$5,000.00 ","$5,400.00 ","$5,398.00 ","$4,140.00 ","$3,928.00 ","$4,740.00 ","$4,600.00 "
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,Total Market Transactions (count),389,389,315,263,246,191,130
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,RESIDENTIAL TOTAL (count),371,362,306,245,172,183,123
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,RESIDENTIAL - ACREAGE (count),30,26,27,24,10,19,13
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,RESIDENTIAL - COMMERCE (count),4,1,1,1,3,3,1
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,RESIDENTIAL - FARM (count),12,NA,6,4,2,6,2
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,RESIDENTIAL - MULTI-FAMILY (count),1,2,3,NA,1,NA,NA
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),284,285,224,172,95,102,87
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,RESIDENTIAL - STRATA RESIDENTIAL (count),28,31,26,19,17,23,14
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),2,NA,2,NA,NA,1,NA
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,RESIDENTIAL - OTHER (count),10,17,17,25,44,29,6
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,COMMERCIAL TOTAL (count),5,12,2,1,37,2,3
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,COMMERCIAL - COMMERCE (count),4,9,NA,1,3,2,3
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,COMMERCIAL - STRATA NON-RESIDENTIAL (count),NA,2,NA,NA,NA,NA,NA
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,COMMERCIAL - OTHER (count),1,1,2,NA,34,NA,NA
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,RECREATIONAL TOTAL (count),9,13,7,12,9,6,2
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,FARM TOTAL (count),4,2,NA,3,1,NA,1
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,OTHER/UNKNOWN TOTAL (count),NA,NA,NA,2,27,NA,1
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,FMV Sum ($ sum),"$174,779,795.15 ","$166,310,899.13 ","$141,483,776.44 ","$122,114,138.54 ","$123,973,626.98 ","$85,013,583.61 ","$56,477,267.21 "
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,FMV Average ($ mean),"$449,305.39 ","$427,534.45 ","$449,154.85 ","$464,312.31 ","$503,957.83 ","$445,097.30 ","$434,440.52 "
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,FMV Median ($ median),"$427,000.00 ","$404,000.00 ","$432,000.00 ","$420,000.00 ","$369,950.00 ","$390,000.00 ","$359,468.56 "
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,PTT Paid ($ sum),"$2,679,076.50 ","$2,560,924.03 ","$2,147,382.85 ","$1,899,384.68 ","$2,084,477.23 ","$1,249,609.49 ","$816,613.07 "
+Mainland/Southwest,FRASER VALLEY,Rest of Fraser Valley,PTT Paid Median ($ median),"$6,200.00 ","$5,698.00 ","$6,498.00 ","$6,380.00 ","$4,700.00 ","$5,300.00 ","$4,619.00 "
+Mainland/Southwest,METRO VANCOUVER,Burnaby,Total Market Transactions (count),606,716,504,421,322,404,351
+Mainland/Southwest,METRO VANCOUVER,Burnaby,RESIDENTIAL TOTAL (count),583,699,492,400,307,393,344
+Mainland/Southwest,METRO VANCOUVER,Burnaby,RESIDENTIAL - ACREAGE (count),NA,NA,NA,NA,NA,NA,1
+Mainland/Southwest,METRO VANCOUVER,Burnaby,RESIDENTIAL - COMMERCE (count),NA,8,3,1,1,2,1
+Mainland/Southwest,METRO VANCOUVER,Burnaby,RESIDENTIAL - FARM (count),NA,NA,NA,NA,NA,NA,NA
+Mainland/Southwest,METRO VANCOUVER,Burnaby,RESIDENTIAL - MULTI-FAMILY (count),2,1,1,3,5,3,1
+Mainland/Southwest,METRO VANCOUVER,Burnaby,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),202,182,154,100,51,81,66
+Mainland/Southwest,METRO VANCOUVER,Burnaby,RESIDENTIAL - STRATA RESIDENTIAL (count),366,394,322,247,150,164,218
+Mainland/Southwest,METRO VANCOUVER,Burnaby,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),5,NA,1,6,2,1,2
+Mainland/Southwest,METRO VANCOUVER,Burnaby,RESIDENTIAL - OTHER (count),8,114,11,43,98,142,55
+Mainland/Southwest,METRO VANCOUVER,Burnaby,COMMERCIAL TOTAL (count),18,16,12,21,13,11,7
+Mainland/Southwest,METRO VANCOUVER,Burnaby,COMMERCIAL - COMMERCE (count),14,5,5,11,3,5,5
+Mainland/Southwest,METRO VANCOUVER,Burnaby,COMMERCIAL - STRATA NON-RESIDENTIAL (count),3,4,3,2,4,5,2
+Mainland/Southwest,METRO VANCOUVER,Burnaby,COMMERCIAL - OTHER (count),1,7,4,8,6,1,NA
+Mainland/Southwest,METRO VANCOUVER,Burnaby,RECREATIONAL TOTAL (count),NA,NA,NA,NA,NA,NA,NA
+Mainland/Southwest,METRO VANCOUVER,Burnaby,FARM TOTAL (count),5,NA,NA,NA,NA,NA,NA
+Mainland/Southwest,METRO VANCOUVER,Burnaby,OTHER/UNKNOWN TOTAL (count),NA,1,NA,NA,2,NA,NA
+Mainland/Southwest,METRO VANCOUVER,Burnaby,FMV Sum ($ sum),"$615,891,070.10 ","$624,087,652.96 ","$443,603,753.28 ","$433,814,235.96 ","$306,597,146.19 ","$289,408,371.65 ","$260,415,278.33 "
+Mainland/Southwest,METRO VANCOUVER,Burnaby,FMV Average ($ mean),"$1,016,321.90 ","$871,630.80 ","$880,166.18 ","$1,030,437.62 ","$952,165.05 ","$716,357.36 ","$741,923.87 "
+Mainland/Southwest,METRO VANCOUVER,Burnaby,FMV Median ($ median),"$589,000.00 ","$552,999.50 ","$582,555.00 ","$565,000.00 ","$574,000.00 ","$455,000.00 ","$479,900.00 "
+Mainland/Southwest,METRO VANCOUVER,Burnaby,PTT Paid ($ sum),"$12,011,462.19 ","$11,265,280.59 ","$8,287,286.26 ","$10,375,167.77 ","$7,223,073.75 ","$7,810,391.20 ","$6,318,086.36 "
+Mainland/Southwest,METRO VANCOUVER,Burnaby,PTT Paid Median ($ median),"$9,730.00 ","$9,000.00 ","$9,950.00 ","$9,240.00 ","$9,000.00 ","$7,050.00 ","$7,598.00 "
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,Total Market Transactions (count),3782,3497,2915,2377,1761,1813,1442
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,RESIDENTIAL TOTAL (count),3739,3451,2873,2300,1698,1778,1401
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,RESIDENTIAL - ACREAGE (count),80,59,58,51,19,32,28
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,RESIDENTIAL - COMMERCE (count),5,4,9,4,3,5,5
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,RESIDENTIAL - FARM (count),11,23,20,13,7,8,7
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,RESIDENTIAL - MULTI-FAMILY (count),11,17,9,12,6,12,6
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),1864,1798,1309,838,565,613,513
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,RESIDENTIAL - STRATA RESIDENTIAL (count),1415,1320,1095,935,588,799,721
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),22,10,17,13,5,10,10
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,RESIDENTIAL - OTHER (count),331,220,356,434,505,299,111
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,COMMERCIAL TOTAL (count),36,31,34,62,50,33,37
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,COMMERCIAL - COMMERCE (count),12,14,8,37,8,8,12
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,COMMERCIAL - STRATA NON-RESIDENTIAL (count),10,10,15,19,10,19,18
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,COMMERCIAL - OTHER (count),14,7,11,6,32,6,7
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,RECREATIONAL TOTAL (count),4,1,1,6,2,NA,1
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,FARM TOTAL (count),3,3,3,6,2,1,NA
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,OTHER/UNKNOWN TOTAL (count),NA,11,4,3,9,1,3
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,FMV Sum ($ sum),"$3,418,644,428.06 ","$3,408,608,149.37 ","$2,668,529,801.98 ","$2,072,646,157.78 ","$1,406,568,715.46 ","$1,504,026,621.25 ","$1,152,739,422.67 "
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,FMV Average ($ mean),"$903,925.02 ","$974,723.52 ","$915,447.62 ","$871,958.84 ","$798,732.94 ","$829,578.94 ","$799,403.21 "
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,FMV Median ($ median),"$650,944.00 ","$725,000.00 ","$678,000.00 ","$554,482.76 ","$535,000.00 ","$568,000.00 ","$532,800.00 "
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,PTT Paid ($ sum),"$63,495,780.91 ","$64,528,657.82 ","$50,039,152.41 ","$41,014,046.00 ","$28,237,711.69 ","$31,512,491.23 ","$21,848,770.65 "
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,PTT Paid Median ($ median),"$10,928.00 ","$12,298.00 ","$11,200.00 ","$8,810.00 ","$8,407.00 ","$8,660.00 ","$7,864.00 "
+Mainland/Southwest,METRO VANCOUVER,Richmond,Total Market Transactions (count),741,802,565,538,818,772,399
+Mainland/Southwest,METRO VANCOUVER,Richmond,RESIDENTIAL TOTAL (count),703,781,537,506,801,754,375
+Mainland/Southwest,METRO VANCOUVER,Richmond,RESIDENTIAL - ACREAGE (count),1,2,NA,1,1,NA,1
+Mainland/Southwest,METRO VANCOUVER,Richmond,RESIDENTIAL - COMMERCE (count),1,2,1,1,1,NA,1
+Mainland/Southwest,METRO VANCOUVER,Richmond,RESIDENTIAL - FARM (count),2,NA,1,2,NA,NA,1
+Mainland/Southwest,METRO VANCOUVER,Richmond,RESIDENTIAL - MULTI-FAMILY (count),6,13,7,10,5,4,11
+Mainland/Southwest,METRO VANCOUVER,Richmond,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),251,272,166,117,83,78,68
+Mainland/Southwest,METRO VANCOUVER,Richmond,RESIDENTIAL - STRATA RESIDENTIAL (count),394,458,321,286,192,218,171
+Mainland/Southwest,METRO VANCOUVER,Richmond,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),5,NA,7,11,4,1,37
+Mainland/Southwest,METRO VANCOUVER,Richmond,RESIDENTIAL - OTHER (count),43,34,34,78,515,453,85
+Mainland/Southwest,METRO VANCOUVER,Richmond,COMMERCIAL TOTAL (count),37,20,28,29,17,18,21
+Mainland/Southwest,METRO VANCOUVER,Richmond,COMMERCIAL - COMMERCE (count),10,6,3,12,1,8,3
+Mainland/Southwest,METRO VANCOUVER,Richmond,COMMERCIAL - STRATA NON-RESIDENTIAL (count),27,11,23,13,10,8,17
+Mainland/Southwest,METRO VANCOUVER,Richmond,COMMERCIAL - OTHER (count),NA,3,2,4,6,2,1
+Mainland/Southwest,METRO VANCOUVER,Richmond,RECREATIONAL TOTAL (count),NA,NA,NA,NA,NA,NA,1
+Mainland/Southwest,METRO VANCOUVER,Richmond,FARM TOTAL (count),1,NA,NA,2,NA,NA,1
+Mainland/Southwest,METRO VANCOUVER,Richmond,OTHER/UNKNOWN TOTAL (count),NA,1,NA,1,NA,NA,1
+Mainland/Southwest,METRO VANCOUVER,Richmond,FMV Sum ($ sum),"$1,042,011,534.16 ","$830,730,883.32 ","$516,382,940.96 ","$569,414,199.10 ","$566,872,020.03 ","$490,671,052.93 ","$388,791,748.86 "
+Mainland/Southwest,METRO VANCOUVER,Richmond,FMV Average ($ mean),"$1,406,223.39 ","$1,035,824.04 ","$913,952.11 ","$1,058,390.70 ","$692,997.58 ","$635,584.27 ","$974,415.41 "
+Mainland/Southwest,METRO VANCOUVER,Richmond,FMV Median ($ median),"$680,000.00 ","$720,000.00 ","$570,000.00 ","$593,500.00 ","$452,985.75 ","$461,735.00 ","$530,000.00 "
+Mainland/Southwest,METRO VANCOUVER,Richmond,PTT Paid ($ sum),"$22,737,338.86 ","$15,781,118.25 ","$10,173,502.34 ","$12,482,906.75 ","$14,192,183.25 ","$12,966,783.50 ","$9,878,293.91 "
+Mainland/Southwest,METRO VANCOUVER,Richmond,PTT Paid Median ($ median),"$11,300.00 ","$12,320.00 ","$9,760.00 ","$9,715.00 ","$6,024.00 ","$5,401.00 ","$8,100.00 "
+Mainland/Southwest,METRO VANCOUVER,Surrey,Total Market Transactions (count),1973,1936,1594,1291,972,1001,1323
+Mainland/Southwest,METRO VANCOUVER,Surrey,RESIDENTIAL TOTAL (count),1931,1908,1569,1244,953,977,1290
+Mainland/Southwest,METRO VANCOUVER,Surrey,RESIDENTIAL - ACREAGE (count),17,10,10,14,4,11,8
+Mainland/Southwest,METRO VANCOUVER,Surrey,RESIDENTIAL - COMMERCE (count),3,4,5,1,3,2,3
+Mainland/Southwest,METRO VANCOUVER,Surrey,RESIDENTIAL - FARM (count),3,2,5,6,2,3,5
+Mainland/Southwest,METRO VANCOUVER,Surrey,RESIDENTIAL - MULTI-FAMILY (count),4,7,3,3,NA,6,7
+Mainland/Southwest,METRO VANCOUVER,Surrey,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),996,944,730,480,257,372,253
+Mainland/Southwest,METRO VANCOUVER,Surrey,RESIDENTIAL - STRATA RESIDENTIAL (count),729,680,626,518,339,457,360
+Mainland/Southwest,METRO VANCOUVER,Surrey,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),3,20,16,7,7,18,19
+Mainland/Southwest,METRO VANCOUVER,Surrey,RESIDENTIAL - OTHER (count),176,241,174,215,341,108,635
+Mainland/Southwest,METRO VANCOUVER,Surrey,COMMERCIAL TOTAL (count),35,25,17,45,18,20,30
+Mainland/Southwest,METRO VANCOUVER,Surrey,COMMERCIAL - COMMERCE (count),4,2,3,12,5,8,4
+Mainland/Southwest,METRO VANCOUVER,Surrey,COMMERCIAL - STRATA NON-RESIDENTIAL (count),17,20,6,10,3,6,19
+Mainland/Southwest,METRO VANCOUVER,Surrey,COMMERCIAL - OTHER (count),14,3,8,23,10,6,7
+Mainland/Southwest,METRO VANCOUVER,Surrey,RECREATIONAL TOTAL (count),NA,NA,NA,NA,NA,NA,NA
+Mainland/Southwest,METRO VANCOUVER,Surrey,FARM TOTAL (count),4,NA,6,2,NA,1,3
+Mainland/Southwest,METRO VANCOUVER,Surrey,OTHER/UNKNOWN TOTAL (count),3,3,2,NA,1,3,NA
+Mainland/Southwest,METRO VANCOUVER,Surrey,FMV Sum ($ sum),"$1,555,417,305.69 ","$1,504,685,059.24 ","$1,225,783,097.68 ","$1,037,069,257.52 ","$643,488,241.12 ","$731,817,299.43 ","$685,444,739.86 "
+Mainland/Southwest,METRO VANCOUVER,Surrey,FMV Average ($ mean),"$788,351.40 ","$777,213.36 ","$768,998.18 ","$803,306.94 ","$662,024.94 ","$731,086.21 ","$518,098.82 "
+Mainland/Southwest,METRO VANCOUVER,Surrey,FMV Median ($ median),"$650,000.00 ","$610,000.00 ","$609,000.00 ","$550,000.00 ","$462,245.00 ","$485,000.00 ","$334,900.00 "
+Mainland/Southwest,METRO VANCOUVER,Surrey,PTT Paid ($ sum),"$27,578,518.74 ","$26,153,043.18 ","$21,709,169.41 ","$19,610,387.43 ","$11,621,448.26 ","$14,757,121.00 ","$13,930,100.82 "
+Mainland/Southwest,METRO VANCOUVER,Surrey,PTT Paid Median ($ median),"$10,740.00 ","$9,500.00 ","$9,700.00 ","$8,100.00 ","$6,900.00 ","$7,300.00 ","$3,948.00 "
+Mainland/Southwest,METRO VANCOUVER,Vancouver,Total Market Transactions (count),2190,2089,1516,1241,966,1130,850
+Mainland/Southwest,METRO VANCOUVER,Vancouver,RESIDENTIAL TOTAL (count),2119,2047,1477,1194,935,1111,806
+Mainland/Southwest,METRO VANCOUVER,Vancouver,RESIDENTIAL - ACREAGE (count),NA,NA,NA,NA,NA,1,NA
+Mainland/Southwest,METRO VANCOUVER,Vancouver,RESIDENTIAL - COMMERCE (count),7,1,5,4,2,7,5
+Mainland/Southwest,METRO VANCOUVER,Vancouver,RESIDENTIAL - FARM (count),NA,NA,NA,NA,NA,NA,NA
+Mainland/Southwest,METRO VANCOUVER,Vancouver,RESIDENTIAL - MULTI-FAMILY (count),51,36,37,22,19,13,13
+Mainland/Southwest,METRO VANCOUVER,Vancouver,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),539,460,346,272,115,214,175
+Mainland/Southwest,METRO VANCOUVER,Vancouver,RESIDENTIAL - STRATA RESIDENTIAL (count),907,912,745,577,391,576,484
+Mainland/Southwest,METRO VANCOUVER,Vancouver,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),10,12,11,8,5,4,4
+Mainland/Southwest,METRO VANCOUVER,Vancouver,RESIDENTIAL - OTHER (count),605,626,333,311,403,296,125
+Mainland/Southwest,METRO VANCOUVER,Vancouver,COMMERCIAL TOTAL (count),67,39,36,47,26,17,39
+Mainland/Southwest,METRO VANCOUVER,Vancouver,COMMERCIAL - COMMERCE (count),32,11,14,32,4,4,32
+Mainland/Southwest,METRO VANCOUVER,Vancouver,COMMERCIAL - STRATA NON-RESIDENTIAL (count),23,19,20,10,11,8,6
+Mainland/Southwest,METRO VANCOUVER,Vancouver,COMMERCIAL - OTHER (count),12,9,2,5,11,5,1
+Mainland/Southwest,METRO VANCOUVER,Vancouver,RECREATIONAL TOTAL (count),NA,1,2,NA,1,1,NA
+Mainland/Southwest,METRO VANCOUVER,Vancouver,FARM TOTAL (count),NA,NA,NA,NA,NA,NA,NA
+Mainland/Southwest,METRO VANCOUVER,Vancouver,OTHER/UNKNOWN TOTAL (count),4,2,1,NA,4,1,5
+Mainland/Southwest,METRO VANCOUVER,Vancouver,FMV Sum ($ sum),"$3,518,429,006.26 ","$2,872,267,410.22 ","$2,017,339,486.41 ","$1,898,619,409.78 ","$1,043,145,984.52 ","$1,543,836,175.42 ","$1,629,315,064.52 "
+Mainland/Southwest,METRO VANCOUVER,Vancouver,FMV Average ($ mean),"$1,606,588.59 ","$1,374,948.50 ","$1,330,698.87 ","$1,529,910.89 ","$1,079,861.27 ","$1,366,226.70 ","$1,916,841.25 "
+Mainland/Southwest,METRO VANCOUVER,Vancouver,FMV Median ($ median),"$757,450.00 ","$709,900.00 ","$689,500.00 ","$724,900.00 ","$635,000.00 ","$787,602.79 ","$733,950.00 "
+Mainland/Southwest,METRO VANCOUVER,Vancouver,PTT Paid ($ sum),"$78,120,383.66 ","$61,359,826.98 ","$43,484,078.39 ","$44,386,319.47 ","$23,673,569.78 ","$42,260,668.34 ","$45,434,409.11 "
+Mainland/Southwest,METRO VANCOUVER,Vancouver,PTT Paid Median ($ median),"$13,033.01 ","$11,980.00 ","$11,830.00 ","$12,760.00 ","$10,580.00 ","$14,373.00 ","$12,698.00 "
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,Total Market Transactions (count),184,166,173,129,108,106,73
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,RESIDENTIAL TOTAL (count),176,161,161,122,102,96,71
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,RESIDENTIAL - ACREAGE (count),12,11,10,13,15,10,6
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,RESIDENTIAL - COMMERCE (count),3,7,2,NA,3,1,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,RESIDENTIAL - FARM (count),1,NA,1,4,1,2,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,RESIDENTIAL - MULTI-FAMILY (count),NA,2,NA,NA,NA,NA,1
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),86,69,68,44,32,38,25
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,RESIDENTIAL - STRATA RESIDENTIAL (count),67,50,52,40,22,28,34
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),3,3,2,5,NA,1,1
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,RESIDENTIAL - OTHER (count),4,19,26,16,29,16,4
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,COMMERCIAL TOTAL (count),5,2,3,6,6,10,1
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,COMMERCIAL - COMMERCE (count),2,1,NA,3,1,2,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,COMMERCIAL - STRATA NON-RESIDENTIAL (count),3,NA,2,1,1,6,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,COMMERCIAL - OTHER (count),NA,1,1,2,4,2,1
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,RECREATIONAL TOTAL (count),2,1,2,NA,NA,NA,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,FARM TOTAL (count),NA,2,6,NA,NA,NA,1
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,OTHER/UNKNOWN TOTAL (count),1,NA,1,1,NA,NA,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,FMV Sum ($ sum),"$111,523,315.15 ","$89,358,385.66 ","$97,232,811.10 ","$71,132,505.50 ","$50,082,759.00 ","$62,119,648.19 ","$35,556,950.08 "
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,FMV Average ($ mean),"$606,104.97 ","$538,303.53 ","$562,039.37 ","$551,414.77 ","$463,729.25 ","$586,034.42 ","$487,081.51 "
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,FMV Median ($ median),"$454,500.00 ","$424,900.00 ","$459,000.00 ","$419,900.00 ","$404,450.00 ","$447,565.00 ","$419,000.00 "
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,PTT Paid ($ sum),"$1,996,278.85 ","$1,442,934.53 ","$1,628,961.50 ","$1,171,072.94 ","$770,610.65 ","$1,027,446.96 ","$517,081.80 "
+Mainland/Southwest,SQUAMISH-LILLOOET,Rest of Squamish-Lillooet,PTT Paid Median ($ median),"$7,090.00 ","$6,414.00 ","$6,998.00 ","$6,200.00 ","$5,450.00 ","$6,951.30 ","$5,100.00 "
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,Total Market Transactions (count),147,119,100,141,128,141,106
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,RESIDENTIAL TOTAL (count),118,79,94,129,115,123,92
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,RESIDENTIAL - ACREAGE (count),1,1,1,NA,1,1,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,RESIDENTIAL - COMMERCE (count),NA,NA,NA,NA,2,1,1
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,RESIDENTIAL - FARM (count),NA,NA,NA,NA,NA,NA,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,RESIDENTIAL - MULTI-FAMILY (count),NA,NA,1,NA,NA,NA,4
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),30,19,24,23,23,29,10
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,RESIDENTIAL - STRATA RESIDENTIAL (count),53,43,49,69,46,62,49
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),34,16,13,33,26,21,28
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,RESIDENTIAL - OTHER (count),NA,NA,6,4,17,9,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,COMMERCIAL TOTAL (count),1,29,3,1,NA,4,2
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,COMMERCIAL - COMMERCE (count),NA,NA,NA,NA,NA,NA,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,COMMERCIAL - STRATA NON-RESIDENTIAL (count),1,29,3,1,NA,2,2
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,COMMERCIAL - OTHER (count),NA,NA,NA,NA,NA,2,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,RECREATIONAL TOTAL (count),28,11,3,10,13,14,12
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,FARM TOTAL (count),NA,NA,NA,NA,NA,NA,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,OTHER/UNKNOWN TOTAL (count),NA,NA,NA,1,NA,NA,NA
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,FMV Sum ($ sum),"$118,246,656.72 ","$69,130,096.67 ","$99,309,482.71 ","$89,361,369.00 ","$87,122,049.02 ","$128,975,083.60 ","$62,114,347.48 "
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,FMV Average ($ mean),"$804,399.03 ","$580,925.18 ","$993,094.83 ","$633,768.57 ","$680,641.01 ","$914,716.90 ","$585,984.41 "
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,FMV Median ($ median),"$535,000.00 ","$401,000.00 ","$723,000.00 ","$436,900.00 ","$475,000.00 ","$580,000.00 ","$340,500.00 "
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,PTT Paid ($ sum),"$2,300,697.61 ","$1,189,494.77 ","$1,935,679.51 ","$1,612,208.66 ","$1,571,365.45 ","$2,497,770.47 ","$1,119,298.07 "
+Mainland/Southwest,SQUAMISH-LILLOOET,Whistler,PTT Paid Median ($ median),"$8,700.00 ","$6,020.00 ","$11,395.00 ","$6,738.00 ","$7,500.00 ","$9,600.00 ","$4,810.00 "
+Mainland/Southwest,METRO VANCOUVER,Burnaby,Foreign Involvement Transactions (count),81,208,6,23,18,35,27
+Mainland/Southwest,METRO VANCOUVER,Burnaby,FMV Sum of Foreign Involvement Transactions ($ sum),"$83,922,968.52 ","$172,697,207.76 ","$5,278,000.00 ","$45,252,906.00 ","$11,227,000.00 ","$21,323,000.00 ","$19,043,400.00 "
+Mainland/Southwest,METRO VANCOUVER,Burnaby,FMV Average of Foreign Involvement Transactions ($ mean),"$1,036,086.03 ","$830,275.04 ","$879,666.67 ","$1,967,517.65 ","$623,722.22 ","$609,228.57 ","$705,311.11 "
+Mainland/Southwest,METRO VANCOUVER,Burnaby,FMV Median of Foreign Involvement Transactions ($ median),"$600,000.00 ","$517,750.00 ","$482,000.00 ","$600,000.00 ","$593,750.00 ","$524,900.00 ","$510,000.00 "
+Mainland/Southwest,METRO VANCOUVER,Burnaby,Additional Tax Paid ($ sum),NA,NA,"$168,546.00 ","$1,805,205.00 ","$1,413,780.00 ","$2,797,632.30 ","$1,752,494.99 "
+Mainland/Southwest,METRO VANCOUVER,Richmond,Foreign Involvement Transactions (count),115,216,12,30,54,68,32
+Mainland/Southwest,METRO VANCOUVER,Richmond,FMV Sum of Foreign Involvement Transactions ($ sum),"$131,296,426.10 ","$239,426,797.42 ","$9,240,000.00 ","$27,697,871.00 ","$38,400,433.20 ","$51,295,133.48 ","$45,764,973.45 "
+Mainland/Southwest,METRO VANCOUVER,Richmond,FMV Average of Foreign Involvement Transactions ($ mean),"$1,141,708.05 ","$1,108,457.40 ","$770,000.00 ","$923,262.37 ","$711,119.13 ","$754,340.20 ","$1,430,155.42 "
+Mainland/Southwest,METRO VANCOUVER,Richmond,FMV Median of Foreign Involvement Transactions ($ median),"$689,900.00 ","$740,750.00 ","$474,900.00 ","$470,450.00 ","$501,400.00 ","$471,650.00 ","$585,000.00 "
+Mainland/Southwest,METRO VANCOUVER,Richmond,Additional Tax Paid ($ sum),NA,NA,"$598,035.14 ","$1,309,864.05 ","$5,141,953.85 ","$6,081,428.32 ","$1,915,482.52 "
+Mainland/Southwest,METRO VANCOUVER,Surrey,Foreign Involvement Transactions (count),162,177,10,19,9,15,55
+Mainland/Southwest,METRO VANCOUVER,Surrey,FMV Sum of Foreign Involvement Transactions ($ sum),"$144,932,877.62 ","$187,509,522.48 ","$6,669,913.00 ","$35,028,634.68 ","$5,957,660.60 ","$13,345,320.81 ","$22,718,766.91 "
+Mainland/Southwest,METRO VANCOUVER,Surrey,FMV Average of Foreign Involvement Transactions ($ mean),"$894,647.39 ","$1,059,375.83 ","$666,991.30 ","$1,843,612.35 ","$661,962.29 ","$889,688.05 ","$413,068.49 "
+Mainland/Southwest,METRO VANCOUVER,Surrey,FMV Median of Foreign Involvement Transactions ($ median),"$799,900.00 ","$935,000.00 ","$472,450.00 ","$930,000.00 ","$542,900.00 ","$795,000.00 ","$260,000.00 "
+Mainland/Southwest,METRO VANCOUVER,Surrey,Additional Tax Paid ($ sum),NA,NA,"$235,425.17 ","$896,415.40 ","$432,586.30 ","$1,630,229.25 ","$3,143,497.19 "
+Mainland/Southwest,METRO VANCOUVER,Vancouver,Foreign Involvement Transactions (count),195,364,15,37,26,51,37
+Mainland/Southwest,METRO VANCOUVER,Vancouver,FMV Sum of Foreign Involvement Transactions ($ sum),"$360,588,084.24 ","$654,263,616.64 ","$24,135,004.00 ","$140,337,540.00 ","$28,900,000.00 ","$82,880,247.37 ","$54,168,376.19 "
+Mainland/Southwest,METRO VANCOUVER,Vancouver,FMV Average of Foreign Involvement Transactions ($ mean),"$1,849,169.66 ","$1,797,427.52 ","$1,609,000.27 ","$3,792,906.49 ","$1,111,538.46 ","$1,625,102.89 ","$1,464,010.17 "
+Mainland/Southwest,METRO VANCOUVER,Vancouver,FMV Median of Foreign Involvement Transactions ($ median),"$868,000.00 ","$785,200.00 ","$619,000.00 ","$1,630,000.00 ","$693,950.00 ","$1,374,900.00 ","$828,000.00 "
+Mainland/Southwest,METRO VANCOUVER,Vancouver,Additional Tax Paid ($ sum),NA,NA,"$974,542.95 ","$2,836,086.45 ","$3,178,222.35 ","$10,127,168.10 ","$6,868,585.17 "
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,Foreign Involvement Transactions (count),342,376,19,46,36,40,26
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,FMV Sum of Foreign Involvement Transactions ($ sum),"$351,165,374.74 ","$506,267,173.11 ","$19,287,060.47 ","$111,797,566.47 ","$32,391,048.23 ","$43,594,942.10 ","$51,601,061.90 "
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,FMV Average of Foreign Involvement Transactions ($ mean),"$1,026,799.34 ","$1,346,455.25 ","$1,015,108.45 ","$2,430,381.88 ","$899,751.34 ","$1,089,873.55 ","$1,984,656.23 "
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,FMV Median of Foreign Involvement Transactions ($ median),"$690,000.00 ","$972,500.00 ","$960,000.00 ","$1,563,403.00 ","$490,350.00 ","$498,450.00 ","$564,275.00 "
+Mainland/Southwest,METRO VANCOUVER,Rest of Metro Vancouver,Additional Tax Paid ($ sum),NA,NA,"$365,995.90 ","$2,059,109.42 ","$3,160,324.13 ","$3,428,164.53 ","$1,962,530.94 "
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,Total Market Transactions (count),780,694,775,661,519,506,411
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,RESIDENTIAL TOTAL (count),762,688,760,639,503,484,399
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,RESIDENTIAL - ACREAGE (count),20,19,10,13,14,18,7
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,RESIDENTIAL - COMMERCE (count),2,2,7,4,NA,2,2
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,RESIDENTIAL - FARM (count),1,2,1,4,7,3,1
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,RESIDENTIAL - MULTI-FAMILY (count),4,4,NA,NA,NA,2,3
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),453,377,421,282,198,210,181
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,RESIDENTIAL - STRATA RESIDENTIAL (count),244,214,255,213,136,172,177
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),NA,3,4,5,2,5,1
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,RESIDENTIAL - OTHER (count),38,67,62,118,146,72,27
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,COMMERCIAL TOTAL (count),10,5,11,18,11,14,7
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,COMMERCIAL - COMMERCE (count),8,2,4,8,5,5,6
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,COMMERCIAL - STRATA NON-RESIDENTIAL (count),NA,2,4,8,NA,3,NA
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,COMMERCIAL - OTHER (count),2,1,3,2,6,6,1
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,RECREATIONAL TOTAL (count),4,1,1,4,3,5,NA
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,FARM TOTAL (count),3,NA,1,NA,2,2,5
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,OTHER/UNKNOWN TOTAL (count),1,NA,2,NA,NA,1,NA
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,FMV Sum ($ sum),"$424,064,560.43 ","$357,857,765.60 ","$402,174,153.91 ","$341,304,316.47 ","$291,949,866.36 ","$256,874,282.40 ","$233,701,305.36 "
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,FMV Average ($ mean),"$543,672.51 ","$515,645.20 ","$518,934.39 ","$516,345.41 ","$562,523.83 ","$507,656.68 ","$568,616.31 "
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,FMV Median ($ median),"$440,000.00 ","$420,000.00 ","$440,000.00 ","$425,000.00 ","$441,900.00 ","$388,750.00 ","$379,900.00 "
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,PTT Paid ($ sum),"$6,893,001.66 ","$5,802,240.60 ","$6,414,156.16 ","$5,492,670.72 ","$4,935,211.81 ","$4,108,988.83 ","$3,984,390.35 "
+Thompson/Okanagan,CENTRAL OKANAGAN,Kelowna,PTT Paid Median ($ median),"$6,575.00 ","$6,144.00 ","$6,600.00 ","$6,200.00 ","$6,680.00 ","$5,215.50 ","$5,118.00 "
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,Total Market Transactions (count),297,289,273,270,197,174,118
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,RESIDENTIAL TOTAL (count),285,287,271,265,194,168,118
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,RESIDENTIAL - ACREAGE (count),10,8,7,7,8,6,4
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,RESIDENTIAL - COMMERCE (count),3,1,NA,1,NA,NA,1
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,RESIDENTIAL - FARM (count),6,1,NA,1,1,2,3
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,RESIDENTIAL - MULTI-FAMILY (count),1,NA,NA,4,1,1,NA
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),211,205,175,153,105,94,86
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,RESIDENTIAL - STRATA RESIDENTIAL (count),47,48,60,59,29,35,22
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),NA,NA,NA,NA,1,NA,1
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,RESIDENTIAL - OTHER (count),7,24,29,40,49,30,1
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,COMMERCIAL TOTAL (count),5,NA,2,2,1,5,NA
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,COMMERCIAL - COMMERCE (count),3,NA,2,NA,NA,NA,NA
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,COMMERCIAL - STRATA NON-RESIDENTIAL (count),NA,NA,NA,NA,1,4,NA
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,COMMERCIAL - OTHER (count),2,NA,NA,2,NA,1,NA
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,RECREATIONAL TOTAL (count),2,1,NA,1,NA,NA,NA
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,FARM TOTAL (count),4,1,NA,2,2,1,NA
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,OTHER/UNKNOWN TOTAL (count),1,NA,NA,NA,NA,NA,NA
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,FMV Sum ($ sum),"$155,064,063.37 ","$147,464,295.45 ","$135,216,626.84 ","$166,553,290.40 ","$100,706,750.31 ","$88,540,443.62 ","$60,672,511.31 "
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,FMV Average ($ mean),"$522,101.22 ","$510,257.08 ","$495,299.00 ","$616,864.04 ","$511,201.78 ","$508,853.12 ","$514,173.82 "
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,FMV Median ($ median),"$455,000.00 ","$472,900.00 ","$435,000.00 ","$439,350.00 ","$465,000.00 ","$423,950.00 ","$444,950.00 "
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,PTT Paid ($ sum),"$2,477,212.92 ","$2,242,431.33 ","$2,135,958.88 ","$2,913,151.42 ","$1,539,523.98 ","$1,390,931.60 ","$892,112.94 "
+Thompson/Okanagan,CENTRAL OKANAGAN,Rest of Central Okanagan,PTT Paid Median ($ median),"$6,770.00 ","$6,600.00 ","$6,500.00 ","$6,600.00 ","$6,798.00 ","$5,869.00 ","$5,900.00 "
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,Total Market Transactions (count),405,404,321,278,271,238,165
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,RESIDENTIAL TOTAL (count),397,397,320,269,265,223,144
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,RESIDENTIAL - ACREAGE (count),20,14,18,13,20,21,12
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,RESIDENTIAL - COMMERCE (count),1,1,2,2,NA,1,3
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,RESIDENTIAL - FARM (count),3,3,2,NA,NA,3,NA
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,RESIDENTIAL - MULTI-FAMILY (count),NA,NA,2,NA,NA,NA,NA
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),235,215,196,162,96,125,94
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,RESIDENTIAL - STRATA RESIDENTIAL (count),89,76,64,41,32,49,26
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),1,NA,NA,3,1,NA,1
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,RESIDENTIAL - OTHER (count),48,88,36,48,116,24,8
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,COMMERCIAL TOTAL (count),7,5,1,4,5,15,19
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,COMMERCIAL - COMMERCE (count),2,1,NA,2,2,NA,NA
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,COMMERCIAL - STRATA NON-RESIDENTIAL (count),2,1,1,1,NA,2,17
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,COMMERCIAL - OTHER (count),3,3,NA,1,3,13,2
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,RECREATIONAL TOTAL (count),NA,NA,NA,1,NA,NA,NA
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,FARM TOTAL (count),1,NA,NA,2,NA,NA,1
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,OTHER/UNKNOWN TOTAL (count),NA,2,NA,2,1,NA,1
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,FMV Sum ($ sum),"$210,194,655.21 ","$216,165,117.81 ","$179,947,876.91 ","$167,965,105.25 ","$159,982,116.89 ","$140,932,793.76 ","$93,285,201.65 "
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,FMV Average ($ mean),"$518,999.15 ","$535,062.17 ","$560,585.29 ","$604,191.03 ","$590,339.91 ","$592,154.60 ","$565,364.86 "
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,FMV Median ($ median),"$455,000.00 ","$420,000.00 ","$475,000.00 ","$465,750.00 ","$475,000.00 ","$466,833.34 ","$492,000.00 "
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,PTT Paid ($ sum),"$3,132,678.77 ","$3,377,844.76 ","$2,770,104.17 ","$2,826,684.23 ","$2,343,369.76 ","$2,286,043.54 ","$1,432,180.72 "
+Vancouver Island/Coast,CAPITAL,Peninsula & Westshore,PTT Paid Median ($ median),"$6,600.00 ","$5,555.00 ","$7,100.00 ","$6,895.00 ","$6,300.00 ","$6,880.00 ","$7,300.00 "
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",Total Market Transactions (count),1190,904,996,819,636,641,625
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",RESIDENTIAL TOTAL (count),1170,894,986,805,614,625,591
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",RESIDENTIAL - ACREAGE (count),12,12,15,17,6,13,9
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",RESIDENTIAL - COMMERCE (count),4,4,3,3,4,5,3
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",RESIDENTIAL - FARM (count),1,1,2,4,1,NA,NA
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",RESIDENTIAL - MULTI-FAMILY (count),16,16,19,24,8,17,5
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),567,481,520,323,217,306,244
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",RESIDENTIAL - STRATA RESIDENTIAL (count),420,336,378,274,157,230,238
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),94,3,5,2,2,11,6
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",RESIDENTIAL - OTHER (count),56,41,44,158,219,43,86
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",COMMERCIAL TOTAL (count),18,8,9,12,17,14,32
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",COMMERCIAL - COMMERCE (count),9,2,8,6,13,6,16
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",COMMERCIAL - STRATA NON-RESIDENTIAL (count),2,5,1,2,NA,8,6
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",COMMERCIAL - OTHER (count),7,1,NA,4,4,NA,10
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",RECREATIONAL TOTAL (count),NA,NA,NA,1,1,NA,NA
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",FARM TOTAL (count),1,NA,NA,1,NA,NA,1
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",OTHER/UNKNOWN TOTAL (count),1,2,1,NA,4,2,1
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",FMV Sum ($ sum),"$740,487,859.34 ","$591,979,497.55 ","$627,195,144.17 ","$556,337,473.69 ","$418,826,051.20 ","$401,036,299.99 ",$2.00 
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",FMV Average ($ mean),"$622,258.71 ","$654,844.58 ","$629,714.00 ","$679,288.73 ","$658,531.53 ","$625,641.65 ","$638,296.90 "
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",FMV Median ($ median),"$500,000.00 ","$549,000.00 ","$540,000.00 ","$529,000.00 ","$550,000.00 ","$508,500.00 ","$434,000.00 "
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",PTT Paid ($ sum),"$12,607,898.63 ","$10,169,247.95 ","$10,655,834.69 ","$9,782,226.07 ","$7,068,544.18 ","$6,844,313.82 ","$7,236,234.35 "
+Vancouver Island/Coast,CAPITAL,"Victoria, Esquimalt, Oak Bay, Saanich & View Royal",PTT Paid Median ($ median),"$7,798.00 ","$8,780.00 ","$8,660.00 ","$8,200.00 ","$8,326.34 ","$7,900.00 ","$6,247.96 "
+Vancouver Island/Coast,NANAIMO,Nanaimo,Total Market Transactions (count),571,380,524,440,387,327,215
+Vancouver Island/Coast,NANAIMO,Nanaimo,RESIDENTIAL TOTAL (count),564,374,510,426,378,318,207
+Vancouver Island/Coast,NANAIMO,Nanaimo,RESIDENTIAL - ACREAGE (count),13,8,22,13,20,11,6
+Vancouver Island/Coast,NANAIMO,Nanaimo,RESIDENTIAL - COMMERCE (count),1,2,2,1,1,6,2
+Vancouver Island/Coast,NANAIMO,Nanaimo,RESIDENTIAL - FARM (count),1,NA,2,2,NA,NA,NA
+Vancouver Island/Coast,NANAIMO,Nanaimo,RESIDENTIAL - MULTI-FAMILY (count),3,2,2,4,1,1,2
+Vancouver Island/Coast,NANAIMO,Nanaimo,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),321,244,350,248,169,208,126
+Vancouver Island/Coast,NANAIMO,Nanaimo,RESIDENTIAL - STRATA RESIDENTIAL (count),112,80,90,72,55,55,56
+Vancouver Island/Coast,NANAIMO,Nanaimo,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),75,NA,1,1,NA,NA,NA
+Vancouver Island/Coast,NANAIMO,Nanaimo,RESIDENTIAL - OTHER (count),38,38,41,85,132,37,15
+Vancouver Island/Coast,NANAIMO,Nanaimo,COMMERCIAL TOTAL (count),5,4,8,11,7,5,6
+Vancouver Island/Coast,NANAIMO,Nanaimo,COMMERCIAL - COMMERCE (count),3,4,6,5,1,3,4
+Vancouver Island/Coast,NANAIMO,Nanaimo,COMMERCIAL - STRATA NON-RESIDENTIAL (count),NA,NA,2,3,1,1,1
+Vancouver Island/Coast,NANAIMO,Nanaimo,COMMERCIAL - OTHER (count),2,NA,NA,3,5,1,1
+Vancouver Island/Coast,NANAIMO,Nanaimo,RECREATIONAL TOTAL (count),NA,2,2,1,2,2,2
+Vancouver Island/Coast,NANAIMO,Nanaimo,FARM TOTAL (count),NA,NA,1,NA,NA,1,NA
+Vancouver Island/Coast,NANAIMO,Nanaimo,OTHER/UNKNOWN TOTAL (count),2,NA,3,2,NA,1,NA
+Vancouver Island/Coast,NANAIMO,Nanaimo,FMV Sum ($ sum),"$199,878,718.85 ","$149,729,183.15 ","$239,490,858.30 ","$161,112,603.97 ","$152,168,020.30 ","$133,626,498.46 ","$81,504,107.52 "
+Vancouver Island/Coast,NANAIMO,Nanaimo,FMV Average ($ mean),"$350,050.30 ","$394,024.17 ","$457,043.62 ","$366,165.01 ","$393,199.02 ","$408,643.73 ","$379,088.87 "
+Vancouver Island/Coast,NANAIMO,Nanaimo,FMV Median ($ median),"$320,000.00 ","$350,000.00 ","$350,000.00 ","$321,050.00 ","$358,000.00 ","$359,900.27 ","$342,500.00 "
+Vancouver Island/Coast,NANAIMO,Nanaimo,PTT Paid ($ sum),"$2,813,324.26 ","$2,174,542.37 ","$3,863,054.19 ","$2,332,753.87 ","$2,165,106.25 ","$1,956,074.85 ","$1,145,537.86 "
+Vancouver Island/Coast,NANAIMO,Nanaimo,PTT Paid Median ($ median),"$4,060.00 ","$4,700.00 ","$4,600.00 ","$4,200.00 ","$4,700.00 ","$4,960.00 ","$4,450.06 "
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,Total Market Transactions (count),347,303,234,195,164,134,105
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,RESIDENTIAL TOTAL (count),309,283,230,181,161,129,97
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,RESIDENTIAL - ACREAGE (count),38,31,20,15,13,14,9
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,RESIDENTIAL - COMMERCE (count),4,1,2,2,NA,NA,NA
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,RESIDENTIAL - FARM (count),NA,1,NA,NA,NA,NA,1
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,RESIDENTIAL - MULTI-FAMILY (count),NA,NA,NA,1,NA,2,1
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,RESIDENTIAL - SINGLE FAMILY RESIDENTIAL (count),223,195,156,97,80,76,57
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,RESIDENTIAL - STRATA RESIDENTIAL (count),30,36,39,26,14,23,15
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,RESIDENTIAL - STRATA NON-RESIDENTIAL or RENTAL (count),5,8,4,10,3,3,8
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,RESIDENTIAL - OTHER (count),9,11,9,30,51,11,6
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,COMMERCIAL TOTAL (count),20,5,2,11,1,3,4
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,COMMERCIAL - COMMERCE (count),3,2,1,4,NA,2,1
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,COMMERCIAL - STRATA NON-RESIDENTIAL (count),16,1,NA,7,NA,1,3
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,COMMERCIAL - OTHER (count),1,2,1,NA,1,NA,NA
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,RECREATIONAL TOTAL (count),14,15,2,3,2,2,3
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,FARM TOTAL (count),NA,NA,NA,NA,NA,NA,NA
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,OTHER/UNKNOWN TOTAL (count),4,NA,NA,NA,NA,NA,1
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,FMV Sum ($ sum),"$144,675,254.37 ","$122,265,131.09 ","$99,288,080.54 ","$81,717,492.27 ","$67,416,930.50 ","$66,395,126.66 ","$39,465,972.17 "
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,FMV Average ($ mean),"$416,931.57 ","$403,515.28 ","$424,308.04 ","$419,064.06 ","$411,078.84 ","$495,486.02 ","$375,866.40 "
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,FMV Median ($ median),"$380,088.00 ","$370,000.00 ","$392,200.00 ","$350,000.00 ","$389,500.00 ","$399,450.00 ","$374,000.00 "
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,PTT Paid ($ sum),"$2,157,100.47 ","$1,853,749.94 ","$1,462,580.15 ","$1,215,593.51 ","$933,367.84 ","$1,033,926.54 ","$531,325.85 "
+Vancouver Island/Coast,NANAIMO,Rest of Nanaimo RD,PTT Paid Median ($ median),"$5,300.00 ","$5,280.00 ","$5,490.00 ","$4,500.00 ","$5,145.70 ","$5,270.00 ","$4,770.00 "

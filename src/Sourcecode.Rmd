@@ -9,8 +9,29 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r, message=FALSE}
+library(tidyverse)
+library(tidyr)
+```
+
+
 ```{r}
 monthly <- read_csv("../data/provincial-monthly_new.csv")
 head(monthly)
+```
+
+```{r}
+muni_tax <- gather(monthly, "date", "values", 2:18)
+
+muni_tax <- muni_tax %>% 
+  mutate(values = as.double(values))
+
+head(muni_tax)
+typeof(muni_tax$values)
+
+muni_tax %>% 
+  filter(Statistics == "RESIDENTIAL TOTAL (count)") %>% 
+ggplot(aes(date, weight=values)) +
+  geom_bar()
 ```
 
