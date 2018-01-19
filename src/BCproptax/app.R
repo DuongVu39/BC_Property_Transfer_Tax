@@ -35,8 +35,7 @@ ui <- fluidPage(tweaks,
                                "Nanaimo", "Nanaimo Rural","Richmond",
                                "Rest of Metro Vancouver","Surrey",
                                "Vancouver", "Whistler"), 
-                   selected = c("Nanaimo", "Vancouver","Burnaby"),
-                   inline = TRUE),
+                   selected = c("Nanaimo", "Vancouver","Burnaby")),
       
       checkboxGroupInput("check2", h3("Feature Selection"),
                          choices = unique(city_tax$Statistics),
@@ -73,8 +72,15 @@ ui <- fluidPage(tweaks,
     mainPanel(
       h2("First barplot"),
       plotOutput("barPlot"),
-      h2("First trend plot"),
-      plotOutput("trendplot1"),
+      
+      fluidRow(
+        column(6,
+        h2("First trend plot"),
+        plotOutput("trendplot1")),
+        column(6,
+               h2("Transaction amount of City A"),
+               plotOutput("value"))),
+        
       h2("Second trend plot"),
       plotOutput("trendplot2")
     )
@@ -87,12 +93,10 @@ server <- function(input, output) {
   output$barPlot <- renderPlot({
     
     city_tax %>%  
-      filter(Municipality %in% input$check,
-             Statistics %in% input$check2)  %>% 
+      filter(Municipality %in% input$check, Statistics %in% input$check2)  %>% 
       ggplot(aes(Municipality)) +
-      geom_bar(aes(weight=values, 
-                   fill=Statistics), 
-               position="dodge")
+      geom_bar(aes(weight=values, fill=Statistics), position="dodge") +
+      theme(legend.position="bottom")
     
   
   })
@@ -115,9 +119,17 @@ server <- function(input, output) {
                              "RESIDENTIAL - FARM (count)",
                              "RESIDENTIAL - MULTI-FAMILY (count)")) %>% 
     ggplot(aes(x=date,y=values,group=Statistics,fill=Statistics)) + 
-    geom_area(position="fill")+
-    scale_fill_brewer(palette="PuOr")
+    geom_area(position="fill", alpha = 0.8)+
+    scale_fill_manual(values=c("#7CB140", "#FFC000", "#ED7D31")) +
+    theme(legend.position="bottom")
   })
+  
+  output$value <- renderPrint({ 
+    h3(input$select)
+    x <- 100
+    h1(x)
+    h3("Average number of transaction")
+     })
   
 }
 

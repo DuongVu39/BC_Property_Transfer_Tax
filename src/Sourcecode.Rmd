@@ -146,6 +146,6 @@ city_tax %>%
                            "RESIDENTIAL - MULTI-FAMILY (count)")) %>% 
   ggplot(aes(x=date,y=values,group=Statistics,fill=Statistics)) + 
     geom_area(position="fill")+
-    scale_fill_brewer(palette="PuOr")
+    scale_fill_manual(values=c("#7CB140", "#FF2A7F","#FFAA00"))
 ```
 
