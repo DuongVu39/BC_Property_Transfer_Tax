@@ -151,3 +151,16 @@ city_tax %>%
 #"#7CB140", "#FFC000", "#ED7D31"
 ```
 
+```{r, message = FALSE}
+city_tax <- read_csv("muni_tax.csv")
+sum((city_tax %>% filter(Municipality == "Nanaimo",
+                     !Statistics %in% 
+                       c("FMV Median of Foreign Involvement Transactions ($ median)","FMV Sum of Foreign Involvement Transactions ($ sum)")))$values, na.rm = TRUE)
+
+sum((city_tax %>% filter(Municipality == "Nanaimo",
+                                  !Statistics %in% 
+c("FMV Median of Foreign Involvement Transactions ($ median)",
+  "FMV Sum of Foreign Involvement Transactions ($ sum)")))$values, na.rm = TRUE)
+```
+
+
