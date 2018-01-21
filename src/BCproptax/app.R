@@ -7,7 +7,7 @@ library(shiny)
 library(tidyverse)
 library(tibble)
 library(glue)
-city_tax <- read_csv("../muni_tax.csv")
+city_tax <- read_csv("muni_tax.csv")
 
 
 # Define UI for application that draws a map and two scatterplot
