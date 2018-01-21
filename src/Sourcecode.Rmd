@@ -14,6 +14,7 @@ library(tidyverse)
 library(tidyr)
 library(stringr)
 library(RColorBrewer)
+
 ```
 
 
@@ -147,5 +148,6 @@ city_tax %>%
   ggplot(aes(x=date,y=values,group=Statistics,fill=Statistics)) + 
     geom_area(position="fill")+
     scale_fill_manual(values=c("#7CB140", "#FF2A7F","#FFAA00"))
+#"#7CB140", "#FFC000", "#ED7D31"
 ```
 

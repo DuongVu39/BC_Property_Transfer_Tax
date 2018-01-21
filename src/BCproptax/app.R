@@ -28,16 +28,16 @@ ui <- fluidPage(tweaks,
   sidebarLayout(
     sidebarPanel(
       # Display 
-      helpText(h3("Adjust the bar plot")),    
-      checkboxGroupInput("check", h3("City Selection"), 
-                   choices = c("Abbotsford", "Burnaby","Chilliwack", 
+      helpText(h3("Adjust the bar plot")),
+      selectizeInput("city", label=h3("City Selection"), 
+                     choices=c("Abbotsford", "Burnaby","Chilliwack", 
                                "Centrail Okanagan Rural", "Kelowna",
                                "Nanaimo", "Nanaimo Rural","Richmond",
                                "Rest of Metro Vancouver","Surrey",
-                               "Vancouver", "Whistler"), 
-                   selected = c("Nanaimo", "Vancouver","Burnaby")),
+                               "Vancouver", "Whistler"),
+                     selected = c("Nanaimo", "Vancouver","Burnaby"), multiple = TRUE),
       
-      checkboxGroupInput("check2", h3("Feature Selection"),
+      checkboxGroupInput("check", h3("Feature Selection"),
                          choices = unique(city_tax$Statistics),
                          selected = c("COMMERCIAL TOTAL (count)",
                                          "RESIDENTIAL TOTAL (count)")),
@@ -93,7 +93,7 @@ server <- function(input, output) {
   output$barPlot <- renderPlot({
     
     city_tax %>%  
-      filter(Municipality %in% input$check, Statistics %in% input$check2)  %>% 
+      filter(Municipality %in% input$city, Statistics %in% input$check)  %>% 
       ggplot(aes(Municipality)) +
       geom_bar(aes(weight=values, fill=Statistics), position="dodge") +
       theme(legend.position="bottom")
