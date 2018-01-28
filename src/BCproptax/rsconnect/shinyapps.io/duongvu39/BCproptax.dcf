@@ -5,8 +5,8 @@ account: duongvu39
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 259031
-bundleId: 1186016
+bundleId: 1196874
 url: https://duongvu39.shinyapps.io/BCproptax/
-when: 1516572873.0014
+when: 1517177091.12126
 asMultiple: FALSE
 asStatic: FALSE

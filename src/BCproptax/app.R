@@ -40,7 +40,7 @@ ui <- fluidPage(
       
       uiOutput("whatever"),
       h5("Ctrl Click to select multiple features"),
-      # Display 1st scatterplot input method
+      
       hr(),
       h2("A deeper look"),
       h4("Selec city for both the line plot and stacked plot"),
@@ -64,7 +64,7 @@ ui <- fluidPage(
       br(),
       br(),
       br(),
-      br(),
+      hr(),
       h3("Stacked plot info:"),
                p("The proportion of Residential property transfer is substantially
                 higher than any other categories. So let's take a closer look at 
