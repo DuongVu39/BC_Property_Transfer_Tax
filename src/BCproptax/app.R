@@ -14,12 +14,19 @@ city_tax <- read_csv("muni_tax.csv")
 ui <- fluidPage(
   
   titlePanel("British Columbia Property Tax Transfer"),
-  
+  h4("This App will help not only buyers and investors but also 
+   regulators to have some general idea of the real estate market 
+   in Mainland/ Southwest. My app will show information about the 
+   property transfer tax over the years 2016 and 2017 for different 
+   cities in this region."),
+  tags$head(
+    tags$style(HTML("hr {border-top: 1px solid #000000;}"))
+  ),
   sidebarLayout(
     sidebarPanel(
       # Display 
-      helpText(h3("Adjust the bar plot")),
-      selectizeInput("city", label=h3("City Selection"), 
+      h2("Overview"),
+      selectizeInput("city", label=h4("City Selection"), 
                      choices=c("Abbotsford", "Burnaby","Chilliwack", 
                                "Centrail Okanagan Rural", "Kelowna",
                                "Nanaimo", "Nanaimo Rural","Richmond",
@@ -27,34 +34,45 @@ ui <- fluidPage(
                                "Vancouver", "Whistler"),
                      selected = c("Nanaimo", "Vancouver","Burnaby"), multiple = TRUE),
       
-      selectInput("transType", h3("Transaction Type"),
+      selectInput("transType", h4("Transaction Type"),
                   choices = c(Transaction_Number = "Count",
                               Transaction_Value = "Dollar")),
       
-      helpText(h5("Ctrl Click to select multiple features")),
       uiOutput("whatever"),
-      
-
-    
+      h5("Ctrl Click to select multiple features"),
       # Display 1st scatterplot input method
-      helpText(h3("Adjust the two trend plots")),
+      hr(),
+      h2("A deeper look"),
+      h4("Selec city for both the line plot and stacked plot"),
       
-      
-      selectInput("select", h3("City Selection"),
+      selectInput("select", h4("City Selection"),
                   choices = c("Abbotsford", "Burnaby","Chilliwack", 
                               "Centrail Okanagan Rural", "Kelowna",
                               "Nanaimo", "Nanaimo Rural","Richmond",
                               "Rest of Metro Vancouver","Surrey",
                               "Vancouver", "Whistler"),
-                  selected = "Nanaimo"),
+                  selected = "Chilliwack"),
       
+      br(),
+      h4("Choose type of transaction for the line plot"),
      
-      helpText(h3("Adjust the line plot")),
-     
-      selectInput("select2", h3("Feature Selection"),
+      selectInput("select2", h4("Feature Selection"),
                   choices = unique(city_tax$Statistics),
-                  selected = "COMMERCIAL - COMMERCE (count)")
-
+                  selected = "COMMERCIAL - COMMERCE (count)"),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      br(),
+      h3("Stacked plot info:"),
+               p("The proportion of Residential property transfer is substantially
+                higher than any other categories. So let's take a closer look at 
+                the porportion of 3 main sub-categories of Residential property transfer:"),
+               br(),
+               p("1. Residential - Commerce"),
+               p("2. Residential - Farm"),
+               p("3. Residentail - Multi-family")
     ),
     
     # Show three plots
@@ -62,7 +80,8 @@ ui <- fluidPage(
       h2("Overview"),
       plotOutput("barPlot"),
       
-      h2("Line trend plot"),
+      h2("A deeper look"),
+      h3("Line trend plot"),
         plotOutput("trendplot1"),
       
       # fluidRow(
@@ -73,7 +92,7 @@ ui <- fluidPage(
       #          h2("Transaction amount of"),
       #          textOutput("value"))),
         
-      h2("Stacked area plot"),
+      h3("Stacked area plot"),
       plotOutput("trendplot2")
     )
   ))
@@ -107,7 +126,7 @@ server <- function(input, output) {
 
     names(count_dollar) <- c('type', 'nameft')
 
-    selectInput("check", h3("Feature Type"),
+    selectInput("check", h4("Feature Type"),
                 choices=filter(count_dollar,
                                  type==input$transType)$nameft,
                 selected = c("COMMERCIAL TOTAL (count)",
@@ -122,9 +141,9 @@ server <- function(input, output) {
       filter(Municipality %in% input$city, Statistics %in% input$check)  %>% 
       ggplot(aes(Municipality)) +
       geom_bar(aes(weight=values, fill=Statistics), position="dodge") +
-      theme(legend.position="bottom")
-    
-  
+      labs(y = input$transType)+
+      theme_bw() +
+      theme(legend.position="bottom") 
   })
   
 
@@ -148,6 +167,7 @@ server <- function(input, output) {
       ggplot(aes(date, values, group = Municipality)) +
       geom_point(color = "red") +
       geom_line(color = "orange") +
+      labs(x ="Month", y = "Number of transaction", title = input$select)+
       theme_bw() 
     
   })
@@ -161,6 +181,8 @@ server <- function(input, output) {
     ggplot(aes(x=date,y=values,group=Statistics,fill=Statistics)) + 
     geom_area(position="fill")+
     scale_fill_manual(values=c("#7CB140", "#FF2A7F","#FFAA00")) +
+    labs(x ="Month", y = "Percentage", title = input$select)+
+    theme_bw() +
     theme(legend.position="bottom")
   })
   
