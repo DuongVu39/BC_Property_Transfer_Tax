@@ -4,6 +4,7 @@ Duong Vu
 
 January 14th, 2018
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 [British Columbia Property Transfer Tax Shiny App](https://duongvu39.shinyapps.io/BCproptax/)
 
